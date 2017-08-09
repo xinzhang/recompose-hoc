@@ -30,7 +30,7 @@ const User = ({name, status}) =>
     <Tooltip text="Cool Due">{name}</Tooltip> - <Status status={status} />
   </div>
 
-const App = () =>
+const App4 = () =>
   <User name="John" status="active" />
 
-export default App;
+export default App4;
